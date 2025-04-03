@@ -1,6 +1,6 @@
 Lista de compras
-- Arroz
-- Feijão preto
-- Batata
-- Macarrão
-- Maçã # a maçã deve estar madura
+1. Arroz
+2. Feijão preto
+3. Batata
+4. Macarrão
+5. Maçã # a maçã deve estar madura
