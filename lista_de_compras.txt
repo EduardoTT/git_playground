@@ -1,7 +1,6 @@
 Lista de compras
 1- Arroz
 2- Feijão preto
-3- Batata
-4- Macarrão
-5- Banana # escolher uma bem madura
-6- Uva
+3- Macarrão
+4- Banana # escolher uma bem madura
+5- Uva
