@@ -1,5 +1,6 @@
 Lista de compras
-- Arroz
-- Feijão
-- Batata
-- Macarrão
+1- Arroz
+2- Feijão preto
+3- Batata
+4- Macarrão
+5- Banana # escolher uma bem madura
