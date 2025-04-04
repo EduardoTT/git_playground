@@ -4,3 +4,4 @@ Lista de compras
 3- Batata
 4- Macarrão
 5- Banana # escolher uma bem madura
+6- Uva
