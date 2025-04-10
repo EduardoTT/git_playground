@@ -7,3 +7,4 @@ Lista de compras
 6- Beterraba
 7- Laranja
 8- Banana
+9- Abacaxi
